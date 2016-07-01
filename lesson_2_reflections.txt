@@ -7,3 +7,7 @@ Q. How is the staging area different from the working directory and repository? 
 
 Staging area allows selection of which changes made in working directory to migrate into repository.
 Useful to add completed changes and not add uncompleted changes, or to break change up into chunks.
+
+Q. How can you use the staging area to make sure you have one commit per logical change?
+
+If you have multiple changes you can break them into chunks by migrating them to the staging area individually.
