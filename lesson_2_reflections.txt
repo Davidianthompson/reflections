@@ -1,0 +1,9 @@
+Q. What happens when you initialise a repository?  Why do you need to do it?
+
+Initialising a repository creates a .git folder containing various book-keeping files.
+This distinguishes it from an untracked folder and enables the git functionalities.
+
+Q. How is the staging area different from the working directory and repository?  What value do you think it offers?
+
+Staging area allows selection of which changes made in working directory to migrate into repository.
+Useful to add completed changes and not add uncompleted changes, or to break change up into chunks.

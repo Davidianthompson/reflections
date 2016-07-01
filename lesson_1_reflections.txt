@@ -1,0 +1,20 @@
+The previous version of the file worked.
+The bug must have been a change.
+Filtering the changes allowed quick identification of points where bug could have been introduced.
+
+Accessing older versions allows quick reversion to previous versions, track changes and no need to comment out code you might need later.
+
+Manual commits, pros:
+- logical break points
+- add comments
+cons:
+- might forget
+
+Git can save mulitple files per commit since several files may be involved in a single logical change.  
+Google docs is different because the docs are less interrelated and saves are more frequent.
+
+Git log and diff can be used to see what changes have been made to a repository and to compare 2 versions.
+
+Version control allows you to make changes confidently, knowing that you can revert to a previous working version at any time.
+
+Can use git for version control for pet projects.
