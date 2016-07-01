@@ -11,3 +11,7 @@ Useful to add completed changes and not add uncompleted changes, or to break cha
 Q. How can you use the staging area to make sure you have one commit per logical change?
 
 If you have multiple changes you can break them into chunks by migrating them to the staging area individually.
+
+Q. What are some situations in which branches would be helpful in keeping your history organised?  How would branches help?
+
+If you are working on several changes in parallel, or multiple people working in parallel, or testing an experimental feature.
