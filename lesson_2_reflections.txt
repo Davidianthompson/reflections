@@ -19,3 +19,8 @@ If you are working on several changes in parallel, or multiple people working in
 Q. How do the diagrams help you visualise the branch structure?
 
 Um... because they are a visualisation of the branch structure?
+
+Q. What is the result of merging 2 branches together?  Why do we represent it in the diagram the way we do?
+
+Merging 2 branches picks up changes made from either branch.  In the diagram these lines come back together since the 2
+branches are now in synch.
