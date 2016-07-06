@@ -21,3 +21,10 @@ Q. How would you collaborate without using Git or GitHub? What would be easier, 
 Using a shared drive or a cloud storage service, or perhaps sending changes via email.  
 There would be less overhead of learning to use the service, but it would be harder to
 track changes, detect conflicts, etc.
+
+Q. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Perhaps when master is the 'production' code and you don't want to merge commits until the feature is complete.
+If the feature is experimental you may want to be able to abandon it by reverting to master.
+If several people are making different changes in parallel working in branches allows them to do so easily.
+Working directly in master is simpler if none of the above are relevant.
