@@ -11,3 +11,7 @@ Q. Describe the differences between forks, clones, and branches. When would you 
 Clone when you want to modify code.
 Branch as a subset of all modifications you are making, e.g. when want to create a new feature.
 Fork when you want to produce a modified release of the code without changing the original.
+
+Q. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Allows you access to all commits from remote even if you are not online, and makes it easier to resolve merge conflicts.
