@@ -15,3 +15,9 @@ Fork when you want to produce a modified release of the code without changing th
 Q. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Allows you access to all commits from remote even if you are not online, and makes it easier to resolve merge conflicts.
+
+Q. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Using a shared drive or a cloud storage service, or perhaps sending changes via email.  
+There would be less overhead of learning to use the service, but it would be harder to
+track changes, detect conflicts, etc.
